@@ -325,23 +325,6 @@ AI / ML         ██████████░░░░░░░░░░
 
 ---
 
-# 📊 GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ruqh-iya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&count_private=true" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruqh-iya&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruqh-iya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
-</div>
 
 ---
 
@@ -408,15 +391,15 @@ AI / ML         ██████████░░░░░░░░░░
 
 <br>
 
-<a href="https://github.com/Ruqh-iya">
+<a href="https://github.com/Ruqhi-ya/Ruqhi-ya">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ruqhiya-966003">
+<a href="https://www.linkedin.com/in/ruqhiya-969b00370">
 <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:muqhiya3@gmail.com">
+<a href="rruqhiya3@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
